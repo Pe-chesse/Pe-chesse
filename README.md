@@ -1,6 +1,6 @@
 # Pe-chesse
 
-## Peach-Market
+## Peach-Market🍑
 
 Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. <br><br>
 우리는 복숭아의 매력을 한 눈에 알아볼 수 있게 다양한 복숭아 관련 상품을 제공하고자 합니다.<br><br>
@@ -10,7 +10,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ![Peach_logo](https://github.com/Pe-chesse/Pe-chesse/assets/130336617/81be2a57-4e68-42a3-b415-c22cc9b94d22)
 
-## Repo
+## Repo🍑
 
 #### Be
 
@@ -20,17 +20,17 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 [Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
 
-## 배포
+## 배포🍑
 
-## 인원구성
+## 인원구성🍑
 
 - BE/FE 5명
 
-## 기간
+## 기간🍑
 
 - 2023.08.10. ~ 2023. 09. 04.
 
-## Technologies Used
+## Technologies Used🍑
 
 - Programing Languages
   - Python
@@ -61,22 +61,109 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
   - Postman
   - Figma
 
-## ERD (Entity-Relationship Diagram)
+## ERD (Entity-Relationship Diagram)🍑
 
-[ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b)
+[ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
+
 <img width="356" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
 
-## Architecture
+## Architecture🍑
 
 ![Architecture](https://github.com/Pe-chesse/Pe-chesse/assets/130336617/be63d38e-2632-4aad-807b-e94109bd29de)
 
-## Design
+## Design🍑
 
 Figma를 통해 디자인을 구성하고 기획했습니다<br>
 
 [Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
 
 <img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
+
+## requirment.txt🍑
+
+```txt
+﻿anyio==3.7.1
+asgiref==3.7.2
+attrs==23.1.0
+autobahn==23.6.2
+Automat==22.10.0
+boto3==1.28.36
+botocore==1.31.36
+CacheControl==0.13.1
+cachetools==5.3.1
+certifi==2023.7.22
+cffi==1.15.1
+channels==4.0.0
+channels-redis==4.1.0
+charset-normalizer==3.2.0
+click==8.1.7
+colorama==0.4.6
+constantly==15.1.0
+cryptography==41.0.3
+daphne==4.0.0
+Django==4.2.4
+django-cors-headers==4.2.0
+django-environ==0.10.0
+django-redis==5.3.0
+django-storages==1.13.2
+djangorestframework==3.14.0
+environ==1.0
+firebase-admin==6.2.0
+google-api-core==2.11.1
+google-api-python-client==2.97.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+google-cloud-core==2.3.3
+google-cloud-firestore==2.11.1
+google-cloud-storage==2.10.0
+google-crc32c==1.5.0
+google-resumable-media==2.5.0
+googleapis-common-protos==1.60.0
+grpcio==1.57.0
+grpcio-status==1.57.0
+gunicorn==21.2.0
+h11==0.14.0
+httplib2==0.22.0
+httptools==0.6.0
+hyperlink==21.0.0
+idna==3.4
+incremental==22.10.0
+jmespath==1.0.1
+msgpack==1.0.5
+packaging==23.1
+Pillow==10.0.0
+proto-plus==1.22.3
+protobuf==4.24.2
+psycopg2-binary==2.9.7
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+PyJWT==2.8.0
+pyOpenSSL==23.2.0
+pyparsing==3.1.1
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+pytz==2023.3
+PyYAML==6.0.1
+redis==5.0.0
+requests==2.31.0
+rsa==4.9
+s3transfer==0.6.2
+service-identity==23.1.0
+six==1.16.0
+sniffio==1.3.0
+sqlparse==0.4.4
+Twisted==23.8.0
+txaio==23.1.1
+typing_extensions==4.7.1
+tzdata==2023.3
+uritemplate==4.1.1
+urllib3==1.26.16
+uvicorn==0.23.2
+watchfiles==0.20.0
+websockets==11.0.3
+zope.interface==6.0
+```
 
 ## API Docs
 
