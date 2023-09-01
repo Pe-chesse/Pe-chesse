@@ -69,7 +69,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ## Architecture🍑
 
-![Architecture](https://github.com/Pe-chesse/Pe-chesse/assets/130336617/be63d38e-2632-4aad-807b-e94109bd29de)
+![Architecture](https://github.com/nohheeyeon/nohheeyeon/assets/130336617/ec0470df-a892-4010-8b57-d882fa9c2566)
 
 ## Design🍑
 
