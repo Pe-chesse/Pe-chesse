@@ -165,11 +165,11 @@ websockets==11.0.3
 zope.interface==6.0
 ```
 
-## API Docs
+## API Docs🍑
 
 [Peach-Market의 API Docs](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
 
-## 기능 설명
+## 기능 설명🍑
 
 ### 로그인 및 회원가입
 
@@ -270,7 +270,7 @@ zope.interface==6.0
 
 만약 Peach-Market 프로젝트에 기여하고 싶다면, 이슈를 제기하거나 Pull Request를 보내주세요 -->
 
-## Contributor
+## Contributor🍑
 
 - 김민기 [prin6850@gmail.com]
   - GitHub : https://github.com/Deeklming
