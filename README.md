@@ -173,15 +173,17 @@ zope.interface==6.0
 
 ### 로그인 및 회원가입
 
+##### 회원가입
+
+![signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca) ![auth_signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/649c7ec5-b6ea-4f33-8e4e-f589a3e7c2a3)
+
+- 사용자가 새로운 계정을 생성하는 기능입니다
+- 'UserApiView' 클래스의 'put' 메서드를 사용하여 사용자 정보를 수정하고 저장합니다
+
 ##### 로그인
 
 - 사용자 인증을 통해 계정에 로그인하는 기능입니다
 - 'ProtectedApiView' 클래스를 통해 사용자의 정보를 확인하고, 해당 정보를 JSON 형식으로 반환합니다
-
-##### 회원가입
-
-- 사용자가 새로운 계정을 생성하는 기능입니다
-- 'UserApiView' 클래스의 'put' 메서드를 사용하여 사용자 정보를 수정하고 저장합니다
 
 ##### 닉네임 중복 확인
 
@@ -194,6 +196,8 @@ zope.interface==6.0
 - 'UserApiView' 클래스의 'put' 메서드에서 사용자가 입력한 수정 정보를 처리하고, 해당 정보를 업데이트합니다
 
 ### 채팅 기능
+
+![chat](https://github.com/nohheeyeon/Algorithm/assets/130336617/ed973cbb-c96b-4a6d-8f11-c9fc12a32658)
 
 ##### 채팅방 생성 및 접속
 
