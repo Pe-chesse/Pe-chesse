@@ -6,7 +6,7 @@
 
 <br>
 
-<div aligin='center' id="top">
+<div align='center' id="top">
  
 ![Peach Market](https://github.com/Pe-chesse/Pe-chesse/assets/131739526/294f18f1-42ea-4e1f-a10a-b3c4c22e8db9)
 
