@@ -1,37 +1,69 @@
-# Pe-chesse
+<div align='center' id="top">
 
-## Peach-Market🍑
+# 🍑 Peach-Market 🍑
 
-Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. <br><br>
+</div>
+
+---
+
+```
+Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. 
+<br><br>
 우리는 복숭아의 매력을 한 눈에 알아볼 수 있게 다양한 복숭아 관련 상품을 제공하고자 합니다.<br><br>
 특히, 농부 및 제작자들과 소비자들 사이의 다리 역할을 하며, 이를 통해 지역적으로 생산된 농산물 소비를 장려하고 소비자들에게 더욱 신선하고 다양하고 풍성한 옵션을 제공합니다.
+```
 
 **Peach-Market**과 함께 복숭아의 세계로 떠나보시는 건 어떨까요? 🍑🛒
 
 ![Peach_logo](https://github.com/Pe-chesse/Pe-chesse/assets/130336617/81be2a57-4e68-42a3-b415-c22cc9b94d22)
 
-## Repo🍑
+## Pe-chesse 소개 🍑
 
-#### Be
+안녕하세요. 저희는 Pe-chesse 입니다! 
+|김민기|김여주|김준균|노희연|정승일|
+|:---:|:---:|:---:|:---:|:---:|
+<img src="" width="400" style="max-width: 100%;">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/aff7bf79-50fc-4ffb-9f80-38d40f72d669" width="400" style="max-width: 100%;">|
 
-[Peach-Market](https://github.com/Pe-chesse/Peach-Market)
+|<a href="https://github.com/Deeklming">🔗 김민기</a>|<a href="https://github.com/kimyeoju">🔗 김여주</a>|<a href="https://github.com/JayG-5">🔗 김준균</a>|<a href="https://github.com/nohheeyeon">🔗 노희연</a>|<a href="https://github.com/SleepyGom">🔗 정승일</a>|
 
-#### Fe
+### 프로젝트 기간
 
-[Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
+> 2023.08.10. ~ 2023. 09. 04.
 
-## 배포🍑
+## [목차]
+---
+1. [구현 기능] (#1-구현-기능)
+2. [레포 및 배포 URL] (#2-레포-및-배포-URL)
+3. [기술스택 및 개발환경] (#3-기술스택-및-개발환경)
+4. [프로젝트 설계 및 과정] (#4-프로젝트-설계-및-과정)
+5. [API 명세서] (#5-API-명세서)
+6. [기능] (#6-기능) 
+7. [UI 이미지] (#7-UI-이미지)
+8. [구현 동작] (#8-구현-동작)
 
-## 인원구성🍑
+<br>
 
-- BE/FE 5명
+## 1. 구현 기능
+---
+- 로그인, 로그아웃
+- 
+<br>
 
-## 기간🍑
+## 2. 배포 URL 🍑
+---
+### 2.1 Back-End
+ - http://3.37.239.49/
+ - [Peach-Market](https://github.com/Pe-chesse/Peach-Market)
 
-- 2023.08.10. ~ 2023. 09. 04.
+### 2.2 Front-End
+- 
+- [Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
 
-## Technologies Used🍑
+<br>
 
+## 3. 기술스택 및 개발환경🍑
+---
+### 3.1 Technologies Used
 - Programing Languages
   - Python
   - JavaScripts(ES6)
@@ -60,27 +92,9 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
   - Notion
   - Postman
   - Figma
+  
 
-## ERD (Entity-Relationship Diagram)🍑
-
-[ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
-
-<img width="356" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
-
-## Architecture🍑
-
-![Architecture](https://github.com/nohheeyeon/nohheeyeon/assets/130336617/ec0470df-a892-4010-8b57-d882fa9c2566)
-
-## Design🍑
-
-Figma를 통해 디자인을 구성하고 기획했습니다<br>
-
-[Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
-
-<img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
-
-## requirment.txt🍑
-
+### 3.2 requirment.txt
 ```txt
 ﻿anyio==3.7.1
 asgiref==3.7.2
@@ -165,27 +179,50 @@ websockets==11.0.3
 zope.interface==6.0
 ```
 
-## API Docs🍑
+## 4. 프로젝트 설계 및 과정
+---
 
-[Peach-Market의 API Docs](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
+### 4.1 ERD (Entity-Relationship Diagram)
 
-## 기능 설명🍑
+[ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
 
-### 로그인 및 회원가입
+<img width="356" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
 
-##### 회원가입
+### 4.2 Architecture
+
+![Architecture](https://github.com/nohheeyeon/nohheeyeon/assets/130336617/ec0470df-a892-4010-8b57-d882fa9c2566)
+
+### 4.3 Design
+
+Figma를 통해 디자인을 구성하고 기획했습니다<br>
+
+[Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
+
+<img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
+
+## 5. API 명세서
+
+- [Peach-Market의 API Docs](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
+
+<br>
+
+## 6. 기능 설명
+
+### 6.1 로그인 및 회원가입
+
+##### - 회원가입
 
 ![signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca) ![auth_signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/649c7ec5-b6ea-4f33-8e4e-f589a3e7c2a3)
 
 - 사용자가 새로운 계정을 생성하는 기능입니다
 - 'UserApiView' 클래스의 'put' 메서드를 사용하여 사용자 정보를 수정하고 저장합니다
 
-##### 로그인
+##### - 로그인
 
 - 사용자 인증을 통해 계정에 로그인하는 기능입니다
 - 'ProtectedApiView' 클래스를 통해 사용자의 정보를 확인하고, 해당 정보를 JSON 형식으로 반환합니다
 
-##### 닉네임 중복 확인
+##### - 닉네임 중복 확인
 
 - 회원가입 시 닉네임 중복 여부를 확인하는 기능입니다
 - 'NicknameVerifyApiView' 클래스의 'get' 메서드를 사용하여 입력된 닉네임이 이미 다른 사용자의 닉네임과 중복되는 지 확인합니다
@@ -286,3 +323,4 @@ zope.interface==6.0
   - GitHub : https://github.com/nohheeyeon
 - 정승일 [jungsi1217@gmail.com]
   - GitHub : https://github.com/SleepyGom
+
