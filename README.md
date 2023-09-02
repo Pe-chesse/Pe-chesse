@@ -8,7 +8,7 @@
 
 <div aligin='center' id="top">
  
-<img width="1000" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
+<img width="1500" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
  
 </div>
 
