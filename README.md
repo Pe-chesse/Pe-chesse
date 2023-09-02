@@ -198,14 +198,13 @@ zope.interface==6.0
 
 ### 4.3 Design
 
-Figma를 통해 디자인을 구성하고 기획했습니다<br>
-
-[Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
+- [Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
 
 <img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
 
 ### 4.4 폴더트리
 
+<br>
 
 ## 5. API 명세서
 
