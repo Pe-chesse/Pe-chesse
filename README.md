@@ -244,6 +244,7 @@ zope.interface==6.0
 ## 6. UI 이미지
 
 
+
 <br>
 
 ## 7. 페이지 기능
@@ -254,7 +255,7 @@ zope.interface==6.0
 
 |🔗[Peach Market](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-Peach-Market)|🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)|🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)|
 |:-:|:-:|:-:|
-|<img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca">|<img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca"> |<img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca">|
+|<img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca">|<img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/fcba3446-ed02-494f-9fd1-fc38d64a7c2e"> |<img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca">|
 
 
 ![auth_signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/649c7ec5-b6ea-4f33-8e4e-f589a3e7c2a3)
