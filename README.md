@@ -20,7 +20,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 안녕하세요. 저희는 Pe-chesse 입니다! 
 |김민기|김여주|김준균|노희연|정승일|
 |:---:|:---:|:---:|:---:|:---:|
-<img src="" width="400" style="max-width: 100%;">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/aff7bf79-50fc-4ffb-9f80-38d40f72d669" width="400" style="max-width: 100%;">|
+<img src="" width="400" style="max-width: 100%;">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/aff7bf79-50fc-4ffb-9f80-38d40f72d669" width="400" style="max-width: 100%;">|<img src="" width="400" style="max-width: 100%;">|<img src="" width="400" style="max-width: 100%;">|
 
 |<a href="https://github.com/Deeklming">🔗 김민기</a>|<a href="https://github.com/kimyeoju">🔗 김여주</a>|<a href="https://github.com/JayG-5">🔗 김준균</a>|<a href="https://github.com/nohheeyeon">🔗 노희연</a>|<a href="https://github.com/SleepyGom">🔗 정승일</a>|
 
