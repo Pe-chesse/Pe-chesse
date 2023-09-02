@@ -220,7 +220,7 @@ zope.interface==6.0
 
 ## 5. API 명세서
 
-- [Peach-Market의 API 명세서](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
+- [Peach-Market API 명세서 🍑](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
 
 <br>
 
