@@ -8,11 +8,12 @@
 
 <div aligin='center' id="top">
  
-<img width="795" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
+<img width="1000" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
  
 </div>
 
 <br>
+
 
 ```
 Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. 
@@ -20,6 +21,8 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 특히, 농부 및 제작자들과 소비자들 사이의 다리 역할을 하며,
 이를 통해 지역적으로 생산된 농산물 소비를 장려하고 소비자들에게 더욱 신선하고 다양하고 풍성한 옵션을 제공합니다.
 ```
+
+
 <br>
 <br>
 
