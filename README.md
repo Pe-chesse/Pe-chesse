@@ -3,6 +3,7 @@
 # 🍑 Peach-Market 🍑
 
 </div>
+
 <br>
 
 <div aligin='center' id="top">
@@ -11,7 +12,7 @@
  
 </div>
 
-
+<br>
 
 ```
 Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. 
