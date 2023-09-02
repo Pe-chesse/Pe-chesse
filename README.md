@@ -35,7 +35,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 <br>
 
 ## [목차]
-1. 구현 기능
+1. 기능
 2. 레포 및 배포 URL
 3. 기술스택 및 개발환경
 4. 프로젝트 설계 및 과정
@@ -46,10 +46,10 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 <br>
 
-## 1. 구현 기능
+## 1. 기능
 
 ### 1.1 주요 기능
-
+<br>
 - 회원가입 및 로그인
 - Firebase 사용하여 소셜 로그인(Google)
 - 사용자 프로필 CRU
@@ -220,7 +220,7 @@ zope.interface==6.0
 
 ## 5. API 명세서
 
-- [Peach-Market의 API Docs](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
+- [Peach-Market의 API 명세서](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
 
 <br>
 
