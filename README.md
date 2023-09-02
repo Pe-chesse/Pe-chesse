@@ -323,4 +323,3 @@ Figma를 통해 디자인을 구성하고 기획했습니다<br>
   - GitHub : https://github.com/nohheeyeon
 - 정승일 [jungsi1217@gmail.com]
   - GitHub : https://github.com/SleepyGom
-
