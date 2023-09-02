@@ -182,7 +182,7 @@ zope.interface==6.0
 
 ### 4.1 ERD (Entity-Relationship Diagram)
 
-[ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
+- [ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
 
 <img width="356" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
 
