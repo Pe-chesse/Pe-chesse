@@ -4,6 +4,9 @@
 
 </div>
 
+<img width="795" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/3cadba59-3f90-44a2-949f-a00280041733">
+
+
 ```
 Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다. 
 우리는 복숭아의 매력을 한 눈에 알아볼 수 있게 다양한 복숭아 관련 상품을 제공하고자 합니다.
