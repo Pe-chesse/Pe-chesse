@@ -320,7 +320,7 @@ zope.interface==6.0
 
 ## 8. 링크
 
-- notion 링크 : https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339
+- [🍑 피치마켓 Notion](https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339)
 
 <!-- ## 기여
 
