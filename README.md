@@ -8,7 +8,8 @@
 
 <div aligin='center' id="top">
  
-<img width="1500" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
+![Peach Market](https://github.com/Pe-chesse/Pe-chesse/assets/131739526/294f18f1-42ea-4e1f-a10a-b3c4c22e8db9)
+
  
 </div>
 
