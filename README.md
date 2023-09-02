@@ -2,8 +2,12 @@
 
 # 🍑 Peach-Market 🍑
 
-<img width="795" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
+</div>
 
+<div aligin='center' id="top">
+ 
+<img width="795" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/1b711834-bf25-478e-87a3-226f8d516050">
+ 
 </div>
 
 
