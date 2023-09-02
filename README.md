@@ -40,9 +40,9 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 3. 기술스택 및 개발환경
 4. 프로젝트 설계 및 과정
 5. API 명세서
-6. 기능
-7. UI 이미지
-8. 구현 동작
+6. UI 이미지
+7. 구현 기능 설명 및 동작
+8. 링크
 
 <br>
 
@@ -204,15 +204,23 @@ Figma를 통해 디자인을 구성하고 기획했습니다<br>
 
 <img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
 
+### 4.4 폴더트리
+
+
 ## 5. API 명세서
 
 - [Peach-Market의 API Docs](https://github.com/Pe-chesse/Pe-chesse/wiki/API-Docs)
 
 <br>
 
-## 6. 기능 설명
+## 6. UI 이미지
 
-### 6.1 로그인 및 회원가입
+
+<br>
+
+## 7. 구현 기능 설명 및 동작
+
+### 7.1 로그인 및 회원가입
 
 ##### - 회원가입
 
@@ -310,6 +318,10 @@ Figma를 통해 디자인을 구성하고 기획했습니다<br>
 
 - 사용자 프로필 페이지에서는 해당 사용자가 작성한 게시글 목록을 조회할 수 있습니다
 - 'Post' 모델과 'PostListSerializer'를 활용하여 사용자가 작성한 게시글들을 조회하고, 이를 프로필 페이지에 출력합니다
+
+## 8. 링크
+
+- notion 링크 : https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339
 
 <!-- ## 기여
 
