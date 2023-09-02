@@ -48,7 +48,17 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ## 1. 구현 기능
 
-- 로그인, 로그아웃
+- 회원가입 및 로그인
+- Firebase 사용하여 소셜 로그인(Google)
+- 사용자 프로필 CRU
+- Follow / Unfollow 기능
+- 사용자 검색 기능
+- 상품 CRUD
+- 사용자 게시글 CRUD
+- 게시글 댓글 CRUD 및 대댓글
+- 게시글 좋아요 기능
+- 사용자 간의 1:1 채팅
+- 채팅 실시간 알림 기능
 
 
 <br>
@@ -190,7 +200,7 @@ zope.interface==6.0
 
 - [ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
 
-<img width="356" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
+<img width="400" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
 
 ### 4.2 Architecture
 
