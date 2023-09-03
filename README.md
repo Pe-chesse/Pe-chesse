@@ -261,7 +261,7 @@ zope.interface==6.0
 
 |            🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)              |         🔗[프로필 생성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-생성-페이지)         |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/b0d37108-ade2-48d1-a21e-07f398eaf9da"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/41c0f028-3ae8-4e3f-bc24-c8f94d6a5aae"> |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/b0d37108-ade2-48d1-a21e-07f398eaf9da"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5d31775e-bdde-4cd9-be6c-c66cf8d595d8"> |
 
 
 ### 7.4 검색 기능
