@@ -252,11 +252,10 @@ zope.interface==6.0
 
 #### - 회원가입
 
-|            🔗[Peach Market](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-Peach-Market)             |         🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)         |           🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)           |
+|            🔗[Peach Market](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-Peach-Market)             |         🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)         |           🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)           |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c1f1731f-a576-49d9-9bef-c60a46558e91"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/27ed0ef9-063a-4af0-9a0a-74e6e8f6bcec"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/ae93589f-3672-4f7b-8d03-4b4e3f7473e2"> |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c1f1731f-a576-49d9-9bef-c60a46558e91"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/41c0f028-3ae8-4e3f-bc24-c8f94d6a5aae"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/256b4c9a-d23a-4de8-8fa4-1478b83e683a"> |
 
-![auth_signup](https://github.com/nohheeyeon/Algorithm/assets/130336617/649c7ec5-b6ea-4f33-8e4e-f589a3e7c2a3)
 
 - 사용자가 새로운 계정을 생성하는 기능입니다
 - 'UserApiView' 클래스의 'put' 메서드를 사용하여 사용자 정보를 수정하고 저장합니다
