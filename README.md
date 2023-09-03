@@ -34,7 +34,7 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 안녕하세요. 저희는 Pe-chesse 입니다!
 김민기|김여주|김준균|노희연|정승일|
 |:---:|:---:|:---:|:---:|:---:|
-<img src="" width="400">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/95dee80c-06a9-4735-a740-4b1d9b39a123" width="400">|<img src="" width="430">|![KakaoTalk_20230903_212820353](https://github.com/nohheeyeon/Algorithm/assets/130336617/3434c30e-e045-471f-b04d-d5e249e36fab)|<img src="" width="400">|
+<img src="" width="400">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/95dee80c-06a9-4735-a740-4b1d9b39a123" width="400">|<img src="" width="430">|![KakaoTalk_20230903_212820353](https://github.com/nohheeyeon/Algorithm/assets/130336617/3434c30e-e045-471f-b04d-d5e249e36fab)|<img src="https://cdn.discordapp.com/attachments/1141230501932322857/1147872797465509988/KakaoTalk_20230903_213253340.jpg" width="400">|
 |<a href="https://github.com/Deeklming">🔗 김민기</a>|<a href="https://github.com/kimyeoju">🔗 김여주</a>|<a href="https://github.com/JayG-5">🔗 김준균</a>|<a href="https://github.com/nohheeyeon">🔗 노희연</a>|<a href="https://github.com/SleepyGom">🔗 정승일</a>|
 
 ### 프로젝트 기간
