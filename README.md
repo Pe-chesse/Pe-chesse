@@ -252,7 +252,7 @@ zope.interface==6.0
 
 #### - 회원가입
 
-|            🔗[Peach Market](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-Peach-Market)             |         🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)         |           🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)           |
+|            🔗[Peach Market](https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c1f1731f-a576-49d9-9bef-c60a46558e91)             |         🔗[회원가입 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-회원가입-페이지)         |           🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)           |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 | <img width="390px;" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/310c04b0-9260-433f-9043-ee29663477ca"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/27ed0ef9-063a-4af0-9a0a-74e6e8f6bcec"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/ae93589f-3672-4f7b-8d03-4b4e3f7473e2"> |
 
