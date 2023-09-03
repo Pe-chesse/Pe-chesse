@@ -248,7 +248,7 @@ zope.interface==6.0
 
 ## 7. 페이지 기능
 
-### 7.1 로그인 및 회원가입
+### 1) 홈
 
 #### - 회원가입
 
@@ -257,27 +257,12 @@ zope.interface==6.0
 | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c1f1731f-a576-49d9-9bef-c60a46558e91"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/41c0f028-3ae8-4e3f-bc24-c8f94d6a5aae"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/256b4c9a-d23a-4de8-8fa4-1478b83e683a"> |
 
 
-- 사용자가 새로운 계정을 생성하는 기능입니다
-- 'UserApiView' 클래스의 'put' 메서드를 사용하여 사용자 정보를 수정하고 저장합니다
+#### - 로그인 및 프로필 생성
 
-#### - 로그인
+|            🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)              |         🔗[프로필 생성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-생성-페이지)         |
+| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/b0d37108-ade2-48d1-a21e-07f398eaf9da"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/41c0f028-3ae8-4e3f-bc24-c8f94d6a5aae"> |
 
-- 사용자 인증을 통해 계정에 로그인하는 기능입니다
-- 'ProtectedApiView' 클래스를 통해 사용자의 정보를 확인하고, 해당 정보를 JSON 형식으로 반환합니다
-
-### 7.2 프로필
-
-#### - 프로필 작성
-
-- 프로필 페이지에서 사용자 정보를 수정할 수 있습니다
-- 'UserApiView' 클래스의 'put' 메서드에서 사용자가 입력한 수정 정보를 처리하고, 해당 정보를 업데이트합니다
-
-#### - 닉네임 중복 확인
-
-- 회원가입 시 닉네임 중복 여부를 확인하는 기능입니다
-- 'NicknameVerifyApiView' 클래스의 'get' 메서드를 사용하여 입력된 닉네임이 이미 다른 사용자의 닉네임과 중복되는 지 확인합니다
-
-### 7.3 메인 홈
 
 ### 7.4 검색 기능
 
