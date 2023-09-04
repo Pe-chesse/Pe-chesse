@@ -268,7 +268,7 @@ zope.interface==6.0
 
 |               🔗[홈 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-홈-페이지)               |      🔗[게시글 작성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-게시글-작성-페이지)      |      🔗[게시글 상세 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-게시글-상세-페이지)      |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/af6bbc68-4c85-481c-8c0d-c724a754677e"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/acd533e6-32e0-431e-a3c7-8a3328d391d4"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5d31775e-bdde-4cd9-be6c-c66cf8d595d8"> |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/af6bbc68-4c85-481c-8c0d-c724a754677e"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/acd533e6-32e0-431e-a3c7-8a3328d391d4"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/425ab59c-5f92-4eda-a072-bd6fedb1789b"> |
 
 ### 3) Profile
 
