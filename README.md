@@ -354,6 +354,8 @@ zope.interface==6.0
 
 ## 6. UI 이미지
 
+![스크린샷 2023-09-05 오전 3 37 37(2)](https://github.com/Pe-chesse/Pe-chesse/assets/131739526/dffecb4a-ea10-4f37-b4c2-657397212b21)
+
 <br>
 
 ## 7. 페이지 기능
