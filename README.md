@@ -282,7 +282,7 @@ zope.interface==6.0
 
 |           🔗[팔로워 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-팔로워-페이지)           |           🔗[팔로잉 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-팔로잉-페이지)           | 🔗[프로필 수정 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-수정-페이지) |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/cedc473d-8049-4ce2-856c-e532ab017249"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/2fed009d-0b8f-4b3c-ae00-ccba597029a5"> |                                          <img width="390px;" src="">                                          |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/cedc473d-8049-4ce2-856c-e532ab017249"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/2fed009d-0b8f-4b3c-ae00-ccba597029a5"> |                                          <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/aec4ca39-1adf-43e0-bcaa-2d66b9721027">                                          |
 
 ## 8. 링크
 
