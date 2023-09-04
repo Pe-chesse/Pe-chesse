@@ -220,7 +220,7 @@ zope.interface==6.0
 - [ERD](https://dbdiagram.io/d/64dd90b402bd1c4a5ee8b16b) <br>
 
 
-<img width="400" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/fec669ae-ca6c-4d8e-aac0-476b47709295">
+<img width="400" alt="ERD" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/937162ff-eeea-4643-a82a-6c8c41916a1b">
 
 ### 4.2 Architecture
 
@@ -258,15 +258,15 @@ zope.interface==6.0
 | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c1f1731f-a576-49d9-9bef-c60a46558e91"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/41c0f028-3ae8-4e3f-bc24-c8f94d6a5aae"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/256b4c9a-d23a-4de8-8fa4-1478b83e683a"> |
 
 
-#### - 로그인, 프로필 생성, 홈 페이지
+#### - 로그인, 프로필 생성, 검색 페이지
 
-|            🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)              |         🔗[프로필 생성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-생성-페이지)         |           🔗[로그아웃 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그아웃-페이지)           |
+|            🔗[로그인 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그인-페이지)              |         🔗[프로필 생성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-생성-페이지)         |           🔗[검색 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-검색-페이지)           |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/b0d37108-ade2-48d1-a21e-07f398eaf9da"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5d31775e-bdde-4cd9-be6c-c66cf8d595d8"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/af6bbc68-4c85-481c-8c0d-c724a754677e"> |
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/b0d37108-ade2-48d1-a21e-07f398eaf9da"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5d31775e-bdde-4cd9-be6c-c66cf8d595d8"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/348bebf4-1d03-4f95-afb5-a55314917046"> |
 
 ### 2) Post
 
-#### -  홈 페이지, 게시글 작성 페이지, 게시글 상세 페이지(좋아요, 댓글)
+#### -  홈 페이지, 게시글 작성 페이지, 게시글 상세 페이지(좋아요, 댓글, 대댓글)
 
 |            🔗[홈 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-홈-페이지)              |         🔗[게시글 작성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-게시글-작성-페이지)         |         🔗[게시글 상세 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-게시글-상세-페이지)         |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |:---------------------------------------------------------------------------------------------------------------------: |
@@ -274,14 +274,11 @@ zope.interface==6.0
 
 ### 3) Profile
 
-#### - 검색, 나의 프로필 페이지(팔로워, 팔로잉), 유저 프로필 페이지(팔로워, 팔로잉)
+#### - 마이 프로필 페이지, 유저 프로필 페이지, 로그아웃 페이지
 
-|            🔗[검색 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-검색-페이지)              |         🔗[프로필 생성 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-프로필-생성-페이지)         |           🔗[홈 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-홈-페이지)           |
+|            🔗[마이 프로필 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-마이-프로필-페이지)              |         🔗[유저 프로필 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-유저-프로필-페이지)         |           🔗[로그아웃 페이지](https://github.com/Pe-chesse/Pe-chesse/wiki/페이지-기능-상세-설명#-로그아웃-페이지)           |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/348bebf4-1d03-4f95-afb5-a55314917046"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/5d31775e-bdde-4cd9-be6c-c66cf8d595d8"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/af6bbc68-4c85-481c-8c0d-c724a754677e"> |
-
-
-
+| <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/d63d9be2-7618-4fd8-b9ab-ec860bea6346"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/7f1e9aae-2bf3-4ed7-8f75-9f5e242ba18c"> | <img width="390px;" src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/f6e9600e-7915-41b7-b1f2-8ddec111ee0e"> |
 
 
 
