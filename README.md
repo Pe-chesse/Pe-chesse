@@ -78,14 +78,14 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ## 2. 레포 및 배포 URL 🍑
 
+### 배포 URL - http://3.37.239.49/
+
 ### 2.1 Back-End
 
-- http://3.37.239.49/
 - [Peach-Market](https://github.com/Pe-chesse/Peach-Market)
 
 ### 2.2 Front-End
 
--
 - [Peach-Fe](https://github.com/Pe-chesse/Peach-Fe)
 
 ### 2.3 Flutter
