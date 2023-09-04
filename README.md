@@ -40,12 +40,16 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 🍑 김민기
 - Chat, Web Development, Infra Architecture
+
 🍑 김여주
 - UI Design(Figma), PostgreSQL, Product CRUD
+
 🍑 김준균
 - Backend, Infra Architecture, Firebase, 채팅, 앱, aws 배포
+
 🍑 노희연
 - Search, Implementation of UI Design, Documentaiton
+
 🍑 정승일
 - Frontend, Post like, Post Follower
 
