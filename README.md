@@ -31,26 +31,26 @@ Peach-Market은 복숭아를 판매하는 온라인 마켓 웹사이트입니다
 
 ## Pe-chesse 소개 🍑
 
-안녕하세요. 저희는 Pe-chesse 입니다!
+안녕하세요. 저희는 **피치즈** 입니다!
 김민기|김여주|김준균|노희연|정승일|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/a299a86a-bde9-40cf-b07a-d180d559d28a" width="400">|<img src="https://github.com/nohheeyeon/Algorithm/assets/130336617/b60f9371-5e0e-49ea-9830-4569641ad9c3" width="400">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/c27dd87e-bfaa-4a38-b53e-fe5229680888" width="350">|<img src="https://github.com/nohheeyeon/Algorithm/assets/130336617/3434c30e-e045-471f-b04d-d5e249e36fab" width="400">|<img src="https://github.com/Pe-chesse/Pe-chesse/assets/131739526/ec8cb01f-900a-4afc-84f8-1d48959b51cb" width="400">|🔗 김민기</a>|<a href="https://github.com/kimyeoju">🔗 김여주</a>|<a href="https://github.com/JayG-5">🔗 김준균</a>|<a href="https://github.com/nohheeyeon">🔗 노희연</a>|<a href="https://github.com/SleepyGom">🔗 정승일</a>|
 
 ## 역할 분담
 
-🍑 김민기
+🍑 **김민기**
 - Chat, Web Development, Infra Architecture
 
-🍑 김여주
+🍑 **김여주**
 - UI Design(Figma), PostgreSQL, Product CRUD
 
-🍑 김준균
+🍑 **김준균**
 - Backend, Infra Architecture, Firebase, 채팅, 앱, aws 배포
 
-🍑 노희연
+🍑 **노희연**
 - Search, Implementation of UI Design, Documentaiton
 
-🍑 정승일
+🍑 **정승일**
 - Frontend, Post like, Post Follower
 
 <br>
