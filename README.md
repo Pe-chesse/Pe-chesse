@@ -400,6 +400,7 @@ zope.interface==6.0
 ## 8. 링크
 
 - [🍑 피치마켓 Notion](https://www.notion.so/peacheese/635598748aa74b6686f765dad4b78339)
+- [🍑 피치마켓 PPT](https://docs.google.com/presentation/d/1dyAyuU1VEIhI6rr17ljWxVwV43uuYid530DEQjLluc0/edit#slide=id.p1)
 
 <br>
 
