@@ -249,7 +249,7 @@ zope.interface==6.0
 
 - [Figma](https://www.figma.com/file/j1pxmegC0PiM2HknjA6Jcs/Peach-Market?type=design&node-id=0%3A1&mode=design&t=6nCqFChKDJod4pcd-1)
 
-<img width="935" alt="image" src="https://github.com/Pe-chesse/Pe-chesse/assets/130336617/54aaa0e2-5af3-43f2-93dc-d021b91eb0e0">
+<img width="924" alt="image" src="https://github.com/nohheeyeon/Algorithm/assets/130336617/ab5cc99b-40e3-4de9-978a-eaa11f18499c">
 
 ### 4.4 폴더트리
 
